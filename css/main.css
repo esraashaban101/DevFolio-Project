@@ -444,7 +444,7 @@ body {
 /* slider */
 .slider {
     background-image: linear-gradient(rgba(0, 120, 255, 0.7), rgba(0, 120, 255, 0.7)), url("../img/overlay-bg.jpg");
-    height: 100vh;
+   
     margin: 60px 0;
 
     .carousel-item {
